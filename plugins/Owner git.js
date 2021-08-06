@@ -39,7 +39,7 @@ if (Config.WORKTYPE == 'private') {
 
     var r_text = new Array ();
     
-    r_text[1] = "*╔═════BotM2🙍═════╗*\n                            \n *⚜═BOTEX🙍═⚜*                        \n\n*owner windro0 - http://Wa.me/+918606413490*\n *\n🔰instagram:-https://www.instagram.com/invites/contact/?i=fy066zwe1xsf&utm_content=dnbhfg5*            *\n*╚════♻️══♻️══♻️═══╝*\n\n*▷Creator: WiNDro*"
+    r_text[1] = "*╔═════JarviS🦇═════╗*\n                            \n *⚜═BOTEX🐉═⚜*                        \n\n*owner windro0 - http://Wa.me/+918606413490*\n *\n🔰instagram:-https://www.instagram.com/invites/contact/?i=fy066zwe1xsf&utm_content=dnbhfg5*            *\n*╚════♻️══♻️══♻️═══╝*\n\n*▷Creator: WiNDro*"
 
     
     await message.client.sendMessage(
