@@ -1,7 +1,7 @@
 {
     "name": "WhatsAsenaDuplicated",
     "description": "WhatsAsena project - Makes it easy and fun to use Whatsapp. World’s first UserBot made for WhatsApp.",
-    "logo": "https://raw.githubusercontent.com/windroser13/pikachu/master/bot.png",
+    "logo": "https://avatars.githubusercontent.com/u/83832372?v=4",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
     "repository": "https://github.com/ameer-kallumthodi/pikachu",
     "website":   "https://t.me/phaticusthiccy",
@@ -111,7 +111,7 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.",
             "required": false,
-            "value": "\n ```I Am Alive !!!```\n\n```Type``` *.help* ```for commands```\n\n```pikachu🧚‍♂️```"
+            "value": "\n ```I Am Alive !!!```\n\n```Type``` *.help* ```for commands```\n\n```JarviS🧚‍♂️```\n\n```MadE BY WindrO```"
         },
         "BAN_MESSAGE": {
             "description": "Customizable Ban Message! Use => default, to change back.",
