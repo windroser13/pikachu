@@ -9,7 +9,7 @@ const {MessageType} = require('@adiwajshing/baileys');
 const Config = require('../config');
 
 const Language = require('../language');
-const Lang = Language.getString('tagmsg');
+const Lang = Language.getString('tagall');
 const SLang = Language.getString('scrapers');
 
 async function checkImAdmin(message, user = message.client.user.jid) {
@@ -20,7 +20,7 @@ async function checkImAdmin(message, user = message.client.user.jid) {
     return sonuc.includes(true);
 }
 
-Asena.addCommand({pattern: 'tagmsg ?(.*)', fromMe: true, dontAddCommandList: true, desc: Lang.TAGALL_DESC }, (async (message, match) => {
+Asena.addCommand({pattern: 'tagall ?(.*)', fromMe: true, dontAddCommandList: true, desc: Lang.TAGALL_DESC }, (async (message, match) => {
    
     if (!message.reply_message) {
         if (match[1] !== '') {
